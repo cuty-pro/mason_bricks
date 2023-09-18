@@ -1,6 +1,7 @@
 name: cutie_bloc
 description: Bloc by templates brick
 version: 0.1.0+1
+repository: https://github.com/cuty-pro/mason_brick
 
 environment:
   mason: ">=0.1.0-dev.50 <0.1.0"

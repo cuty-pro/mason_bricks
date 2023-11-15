@@ -1,0 +1,14 @@
+name: cutie_cubit
+description: Cubit by templates brick
+version: 0.1.0+1
+repository: https://github.com/cuty-pro/mason_brick
+
+environment:
+  mason: ">=0.1.0-dev.50 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: Your cubit name
+    default: counter
+    prompt: What is your cubit name?
